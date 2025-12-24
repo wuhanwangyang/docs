@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ag as l}from"./chunks/framework.WXS6e2PS.js";const o=JSON.parse('{"title":"更新日志","description":"","frontmatter":{},"headers":[],"relativePath":"Log.md","filePath":"Log.md"}'),e={name:"Log.md"};function h(t,s,p,k,r,F){return n(),a("div",null,[...s[0]||(s[0]=[l("",8)])])}const c=i(e,[["render",h]]);export{o as __pageData,c as default};
